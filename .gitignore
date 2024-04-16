@@ -1,0 +1,4 @@
+node_modules/
+botcomida_sessions/
+*qr.png
+*.log
